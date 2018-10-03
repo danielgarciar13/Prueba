@@ -4,7 +4,8 @@ public class Prueba{
 	
 		System.out.println("Daniel Garcia Rivas");
 		System.out.println("Benavente");
-		System.out.pirntln("San Andres del rabanedo");
+		System.out.println("San Andres del rabanedo");
+		System.out.println("1999");
 
 	}
 
